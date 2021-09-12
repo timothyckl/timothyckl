@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Timothy
+- 👋 Hi, I’m tim
 - 👀 I’m interested in machine learning, astronomy and bioinformatics!
 - 🌱 I’m currently studying artificial intelligence
 
