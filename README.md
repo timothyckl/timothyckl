@@ -1,6 +1,4 @@
-- 👋 Hi, I’m tim
-- 👀 I’m interested in machine learning, astronomy and bioinformatics!
-- 🌱 I’m currently studying artificial intelligence
+wip 
 
 <!---
 timothyckl/timothyckl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
