@@ -1,3 +1,4 @@
+### Hi, I'm Timothy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
 ![python](https://img.shields.io/badge/python-%23404040?style=flat-square&logo=python&logoColor=AAA)
 ![cpp](https://img.shields.io/badge/c%2B%2B-%23404040?style=flat-square&logo=c%2B%2B&logoColor=AAA)
