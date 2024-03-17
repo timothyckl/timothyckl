@@ -12,7 +12,7 @@
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
 ![python](https://img.shields.io/badge/python-%23404040?style=flat-square&logo=python&logoColor=AAA)
 ![cpp](https://img.shields.io/badge/c%2B%2B-%23404040?style=flat-square&logo=c%2B%2B&logoColor=AAA)
-![react](https://img.shields.io/badge/react-%23404040?style=flat-square&logo=react&logoColor=AAA)
+![ts](https://img.shields.io/badge/typescript-%23404040?style=flat-square&logo=typescript&logoColor=AAA)
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
 ![docker](https://img.shields.io/badge/docker-%23404040?style=flat-square&logo=docker&logoColor=AAA)
