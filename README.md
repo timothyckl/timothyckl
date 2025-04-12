@@ -2,10 +2,10 @@
 
 ----
 
-- 💻 ~~I'm an **Machine Learning Engineer** at the Agency for Science, Technology, and Research (A*STAR)~~
-- 🌱 ~~I’m pursuing a **Diploma in Applied AI & Analytics** at Singapore Polytechnic~~
-- ⚡ ~~I’m currently learning **Retrieval Augmented Generation (RAG)** and **Evaluation-Driven Development (EDD)**~~
-- 💡 I'm interested in all things data: **Big Data**, **Cloud**, **Machine Learning** and **Data Science**
+- 💻 ~~I'm an **Machine Learning Engineer** at the Agency for Science, Technology, and Research (A*STAR).~~
+- 🌱 I’m pursuing a **BSc (Hons) in Applied AI** at Singapore Institute of Technology.
+- ⚡ ~~I’m currently learning **Retrieval Augmented Generation (RAG)** and **Evaluation-Driven Development (EDD).**~~
+- 💡 I'm interested in all things data: **Big Data**, **Cloud**, **Machine Learning** and **Data Science.**
 
 ----
 
