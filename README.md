@@ -1,8 +1,7 @@
 ### Hi, I'm Timothy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
 ----
-
-- 💻 ~~I'm an **Machine Learning Engineer** at the Agency for Science, Technology, and Research (A*STAR).~~
+<!--  💻 ~~I'm an **Machine Learning Engineer** at the Agency for Science, Technology, and Research (A*STAR).~~ -->
 - 🌱 I’m pursuing a **BSc (Hons) in Applied Artificial Intelligence** at Singapore Institute of Technology.
 - 💡 My research interests are: **Data-Efficiency** and **Mechanistic Interpretability**
 
