@@ -3,7 +3,7 @@
 ----
 <!--  💻 ~~I'm an **Machine Learning Engineer** at the Agency for Science, Technology, and Research (A*STAR).~~ -->
 - 🌱 I’m pursuing a **BSc (Hons) in Applied Artificial Intelligence** at Singapore Institute of Technology.
-- 💡 My research interests are: **Data-Efficiency** and **Mechanistic Interpretability**
+- 💡 My research interests are: **AI Safety**, **Alignment** and **Mechanistic Interpretability**
 
 ----
 
